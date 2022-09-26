@@ -6,7 +6,7 @@ namespace RockPaperScissors
     {
         static void Main(string[] args)
         {
-            Console.Title = "ROCK PAPER SCISSORS";
+            Console.Title = "ROCK PAPER SCISSORS by intMaxValue";
 
             const string Rock = "Rock";
             const string Paper = "Paper";
